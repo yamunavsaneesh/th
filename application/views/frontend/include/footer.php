@@ -1,0 +1,1 @@
+<div class="app-footer"> Powered by Web Channel <a href="http://www.webchannel.ae" target="_blank"><img src="<?php echo base_url('public/assets/images/webchannel-logo.png');?>" alt=""></a> </div>

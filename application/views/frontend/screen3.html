@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Treasure Hunt</title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="../assets/css/vendor.css">
+  <link rel="stylesheet" type="text/css" href="../assets/css/flat-admin.css">
+  <!-- Theme -->
+  <!--<link rel="stylesheet" type="text/css" href="../assets/css/theme/blue-sky.css">
+  <link rel="stylesheet" type="text/css" href="../assets/css/theme/blue.css">
+  <link rel="stylesheet" type="text/css" href="../assets/css/theme/red.css">
+  <link rel="stylesheet" type="text/css" href="../assets/css/theme/yellow.css">-->
+</head>
+<body>
+  <div class="app app-default">
+<script type="text/ng-template" id="sidebar-dropdown.tpl.html">
+  <div class="dropdown-background">
+    <div class="bg"></div>
+  </div>
+  <div class="dropdown-container">
+    {{list}}
+  </div>
+</script>
+<div class="app-container">
+  
+  <header>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-6">
+        <div class="logo"><img src="../assets/images/logo.png" alt="" class="img-responsive"></div>
+      </div>
+      <div class="col-xs-6">
+       <div class="time-left-wrap pull-right">
+        <!-- <h3 class="text-center">Timer</h3>
+        <h4>Time Left for this Task</h4> -->
+        
+        <!-- <div class="time text-center">12:20</div> -->
+        <p class="text-right all-time"><strong>Overall Time</strong> <br><span class="alltime">1.30 <small>min</small></span> </p>
+       </div>
+      </div>
+    </div>
+    </div>
+  </header>
+    <section>
+    <div class="container-fluid">
+     <div class="timing">
+      <div class="row">
+        <div class="col-xs-5">
+          <p>Stage <span class="num">2</span> of <span class="num">25</span></p>
+        </div>
+        <div class="col-xs-7">
+        
+          <div class="timeleft-wrap">  
+           <h3>Time left for this Task</h3>
+  
+  <div class="countdown">
+    <div class="bloc-time hours" data-init-value="1">
+      
+      <div class="figure hours hours-1">
+        <span class="top">2</span>
+        <span class="top-back">
+          <span>2</span>
+        </span>
+        <span class="bottom">2</span>
+        <span class="bottom-back">
+          <span>2</span>
+        </span>
+      </div>
+      <div class="figure hours hours-2">
+        <span class="top">4</span>
+        <span class="top-back">
+          <span>4</span>
+        </span>
+        <span class="bottom">4</span>
+        <span class="bottom-back">
+          <span>4</span>
+        </span>
+      </div>
+    </div>
+    <div class="bloc-time min" data-init-value="30">
+      
+      <div class="figure min min-1">
+        <span class="top">0</span>
+        <span class="top-back">
+          <span>0</span>
+        </span>
+        <span class="bottom">0</span>
+        <span class="bottom-back">
+          <span>0</span>
+        </span>        
+      </div>
+      <div class="figure min min-2">
+       <span class="top">0</span>
+        <span class="top-back">
+          <span>0</span>
+        </span>
+        <span class="bottom">0</span>
+        <span class="bottom-back">
+          <span>0</span>
+        </span>
+      </div>
+    </div>
+    <div class="bloc-time sec" data-init-value="0">
+      
+        <div class="figure sec sec-1">
+        <span class="top">0</span>
+        <span class="top-back">
+          <span>0</span>
+        </span>
+        <span class="bottom">0</span>
+        <span class="bottom-back">
+          <span>0</span>
+        </span>          
+      </div>
+      <div class="figure sec sec-2">
+        <span class="top">0</span>
+        <span class="top-back">
+          <span>0</span>
+        </span>
+        <span class="bottom">0</span>
+        <span class="bottom-back">
+          <span>0</span>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        </div>
+      </div>
+    </div>
+     
+     <div class="qst-tab">
+       <ul>
+         <li>Q1</li>
+         <li class="active">Q2</li>
+         <li>Q3</li>
+   
+       </ul>
+     </div>
+     <div class="clearfix"></div>
+     <div class="qst-wrap">
+       <p>Where is Burj Khalifa? Go to Burj Khalifa Entrance to find the next clue and enter you secret code which you will find it there.</p>
+       <input type="text" placeholder="Enter your answer here" class="form-control">
+       <div class="text-center">
+                <input type="submit" class="btn btn-success btn-submit" value="Submit">
+            </div>
+     </div>
+     
+     </div>
+   </section>
+<footer>
+  <p class="developer">Powered by <a href="http://www.webchannel.ae" target="_blank"><img src="../assets/images/webchannel-logo.png" alt=""></a></p>
+</footer>	
+  
+</div>
+  </div>
+  
+  <script type="text/javascript" src="../assets/js/jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="../assets/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+  <script type="text/javascript" src="../assets/js/digital-countdown.js"></script>
+</body>
+</html>

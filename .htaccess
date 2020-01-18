@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /projects/th/
+RewriteCond $1 !^(index\.php|cron\.php|public|robots\.txt|css|html)
+RewriteRule ^(.*)$ ./index.php/$1 [L]
+</IfModule>

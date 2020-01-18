@@ -1,0 +1,102 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright (c) 2009 Sun Microsystems Inc.
+FontName OpenSymbol
+FontSubfamily Regular
+UniqueID OpenSymbol
+FullName OpenSymbol Regular
+Version Version 1.21
+PostScriptName OpenSymbol
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 10
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 917
+Descender -333
+FontBBox -24 -236 1000 898
+StartCharMetrics 80
+U 0 ; WX 1000 ; N glyph1 ; G 1
+U 12 ; WX 500 ; N uni000C ; G 3
+U 13 ; WX 500 ; N uni000D ; G 2
+U 32 ; WX 500 ; N space ; G 4
+U 33 ; WX 296 ; N exclam ; G 5
+U 34 ; WX 355 ; N quotedbl ; G 6
+U 35 ; WX 556 ; N numbersign ; G 7
+U 37 ; WX 833 ; N percent ; G 8
+U 38 ; WX 778 ; N ampersand ; G 9
+U 40 ; WX 340 ; N parenleft ; G 10
+U 41 ; WX 340 ; N parenright ; G 11
+U 42 ; WX 389 ; N asterisk ; G 12
+U 43 ; WX 584 ; N plus ; G 13
+U 44 ; WX 250 ; N comma ; G 14
+U 45 ; WX 333 ; N hyphen ; G 15
+U 46 ; WX 250 ; N period ; G 16
+U 47 ; WX 278 ; N slash ; G 17
+U 58 ; WX 278 ; N colon ; G 18
+U 59 ; WX 278 ; N semicolon ; G 19
+U 60 ; WX 584 ; N less ; G 20
+U 61 ; WX 795 ; N equal ; G 21
+U 62 ; WX 584 ; N greater ; G 22
+U 91 ; WX 282 ; N bracketleft ; G 23
+U 93 ; WX 282 ; N bracketright ; G 24
+U 123 ; WX 382 ; N braceleft ; G 25
+U 125 ; WX 382 ; N braceright ; G 26
+U 126 ; WX 795 ; N asciitilde ; G 27
+U 160 ; WX 500 ; N uni00A0 ; G 28
+U 162 ; WX 428 ; N cent ; G 29
+U 164 ; WX 500 ; N currency ; G 30
+U 165 ; WX 500 ; N yen ; G 31
+U 167 ; WX 556 ; N section ; G 32
+U 168 ; WX 265 ; N dieresis ; G 33
+U 171 ; WX 556 ; N guillemotleft ; G 34
+U 172 ; WX 649 ; N logicalnot ; G 35
+U 173 ; WX 795 ; N uni00AD ; G 36
+U 176 ; WX 426 ; N degree ; G 37
+U 177 ; WX 795 ; N plusminus ; G 38
+U 182 ; WX 537 ; N paragraph ; G 39
+U 187 ; WX 556 ; N guillemotright ; G 40
+U 191 ; WX 444 ; N questiondown ; G 41
+U 215 ; WX 795 ; N multiply ; G 42
+U 247 ; WX 795 ; N divide ; G 43
+U 338 ; WX 1005 ; N OE ; G 44
+U 339 ; WX 854 ; N oe ; G 45
+U 376 ; WX 727 ; N Ydieresis ; G 46
+U 710 ; WX 333 ; N circumflex ; G 47
+U 732 ; WX 333 ; N tilde ; G 48
+U 8192 ; WX 449 ; N uni2000 ; G 49
+U 8193 ; WX 898 ; N uni2001 ; G 50
+U 8194 ; WX 449 ; N uni2002 ; G 51
+U 8195 ; WX 898 ; N uni2003 ; G 52
+U 8196 ; WX 299 ; N uni2004 ; G 53
+U 8197 ; WX 224 ; N uni2005 ; G 54
+U 8198 ; WX 149 ; N uni2006 ; G 55
+U 8199 ; WX 149 ; N uni2007 ; G 56
+U 8200 ; WX 112 ; N uni2008 ; G 57
+U 8201 ; WX 179 ; N uni2009 ; G 58
+U 8202 ; WX 50 ; N uni200A ; G 59
+U 8208 ; WX 333 ; N uni2010 ; G 60
+U 8209 ; WX 333 ; N uni2011 ; G 61
+U 8210 ; WX 333 ; N figuredash ; G 62
+U 8211 ; WX 556 ; N endash ; G 63
+U 8212 ; WX 1000 ; N emdash ; G 64
+U 8216 ; WX 235 ; N quoteleft ; G 65
+U 8217 ; WX 235 ; N quoteright ; G 66
+U 8218 ; WX 235 ; N quotesinglbase ; G 67
+U 8220 ; WX 404 ; N quotedblleft ; G 68
+U 8221 ; WX 404 ; N quotedblright ; G 69
+U 8222 ; WX 404 ; N quotedblbase ; G 70
+U 8226 ; WX 356 ; N bullet ; G 71
+U 8230 ; WX 952 ; N ellipsis ; G 72
+U 8239 ; WX 179 ; N uni202F ; G 73
+U 8249 ; WX 333 ; N guilsinglleft ; G 74
+U 8250 ; WX 333 ; N guilsinglright ; G 75
+U 8287 ; WX 224 ; N uni205F ; G 76
+U 8364 ; WX 765 ; N Euro ; G 77
+U 8482 ; WX 1000 ; N trademark ; G 78
+U 57344 ; WX 244 ; N uniE000 ; G 79
+EndCharMetrics
+EndFontMetrics
